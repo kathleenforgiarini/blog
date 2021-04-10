@@ -1,2 +1,2 @@
 # Blog
-Primeiro projeto - Curso de desenvolvimento web - Udemy
+Primeiro projeto - Curso de desenvolvimento web - Udemy. :D
